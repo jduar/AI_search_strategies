@@ -43,6 +43,15 @@ Optimal solution depth: 10.
 ```
 Unsolvable.
 
+## What's missing?
+Data structures we won't include right now as they contain code given to us for the purpose of the project.
+
+## What's next?
+* Replace those data structures.
+* Clean up the code.
+* Provide visualization of performance differences between the different methods. 
+
+
 ## Compiler version:
 gcc (GCC) 8.2.1
 
